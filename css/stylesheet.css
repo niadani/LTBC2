@@ -2625,7 +2625,8 @@ footer>a {
   }
 
   .about-imagegroup {
-    max-width: 38%;
+      max-width: 47%;
+
     height: 130px;
     width: 100%;
     margin-bottom: 2%;
